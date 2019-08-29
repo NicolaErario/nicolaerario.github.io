@@ -1,3 +1,3 @@
-# :octocat: My personal website
+# My personal website
 
 ## Showcase of my software development skills
