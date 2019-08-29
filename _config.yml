@@ -23,7 +23,7 @@ projects:
   #   - stars
   limit: 12
   exclude:
-    archived: false
+    archived: true
     forks: false
     projects:
      - merge-conflicts
