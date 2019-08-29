@@ -23,12 +23,13 @@ projects:
   #   - stars
   limit: 12
   exclude:
-    archived: false
+    archived: true
     forks: false
     projects:
      - merge-conflicts
      - intro-html
      - training-kit
+     - theme-customisations
 
 social_media:
   # behance: your_username
