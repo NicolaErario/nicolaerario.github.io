@@ -74,6 +74,10 @@ topics:
     web_url: https://github.com/topics/angular
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png
 
+  - name: Ember
+    web_url: https://github.com/topics/ember
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ember/ember.png
+
   - name: Html
     web_url: https://github.com/topics/html
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png
